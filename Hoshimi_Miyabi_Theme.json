@@ -162,7 +162,7 @@
   },
   "color": "#ed1c24",
   "backgroundStyle": {
-    "background-size": "cover",
+    "background-size": "auto",
     "background-repeat": "no-repeat",
     "background-position": "center center"
   }

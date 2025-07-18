@@ -157,8 +157,13 @@
   },
   "background": {
     "blur": 0.5,
-    "alpha": 0.8,
-    "url": "https://raw.githubusercontent.com/AkaneTsukiii/Hoshimi-Miyabi-Theme/refs/heads/main/1015168.jpg"
+    "alpha": 1.0,
+    "url": "https://raw.githubusercontent.com/AkaneTsukiii/Hoshimi-Miyabi-Theme/main/1015168.jpg"
   },
-  "color": "#ed1c24"
+  "color": "#ed1c24",
+  "backgroundStyle": {
+    "background-size": "contain",
+    "background-repeat": "no-repeat",
+    "background-position": "center center"
+  }
 }

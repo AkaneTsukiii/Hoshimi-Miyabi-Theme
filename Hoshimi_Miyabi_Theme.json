@@ -1,0 +1,164 @@
+{
+  "name": "Hoshimi Miyabi",
+  "description": "Inspired by art featuring a dark-themed character with red eyes, by AkaneTsukiii.",
+  "authors": [
+    {
+      "name": "AkaneTsukiii",
+      "id": "your_discord_id_here"
+    }
+  ],
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#ed1c24",
+    "iconpack": "rosiecord-plumpy"
+  },
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#c7c7c7"
+    ],
+    "HEADER_SECONDARY": [
+      "#999999"
+    ],
+    "TEXT_NORMAL": [
+      "#e5e5e5"
+    ],
+    "TEXT_PRIMARY": [
+      "#ffffff"
+    ],
+    "TEXT_MUTED": [
+      "#888888"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#5294e2"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#67b2f0"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ed1c24"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#444444"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0e0e10"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#121216"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#1a1a1a"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1f1f1f"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#1c1c1c"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#101013"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0e0e10"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#16161a"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#ed1c2420"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "rgba(255, 0, 0, 0.1)"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#222222"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#2c2c2c"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#2f2f2f"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#3a3a3a"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#202020"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#ed1c24"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#ed1c24"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#333333"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#777777"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#5294e2"
+    ],
+    "TEXT_LINK": [
+      "#ed1c24"
+    ],
+    "TEXT_DANGER": [
+      "#ff4040"
+    ],
+    "KEYBOARD": [
+      "#000000"
+    ],
+    "CHANNEL_ICON": [
+      "#ed1c24"
+    ],
+    "CHAT_BACKGROUND": [
+      "#0e0e10"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#181818"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#222222"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#5294e2",
+    "PRIMARY_100": "#2a2a2a",
+    "PRIMARY_200": "#ed1c24",
+    "PRIMARY_230": "#ffffff",
+    "PRIMARY_300": "#3b6fb3",
+    "PRIMARY_360": "#ed1c24",
+    "PRIMARY_400": "#5294e2",
+    "PRIMARY_600": "#1e1e1e",
+    "PRIMARY_630": "#101010",
+    "PRIMARY_645": "#141414",
+    "PRIMARY_660": "#1a1a1a",
+    "PRIMARY_700": "#1f1f1f",
+    "PRIMARY_800": "#000000",
+    "PLUM_1": "#ffffff",
+    "PLUM_3": "#5294e2",
+    "PLUM_6": "#3a5c9e",
+    "PLUM_9": "#ffffff",
+    "PLUM_10": "#aaaaaa",
+    "PLUM_11": "#000000",
+    "PLUM_13": "#444444",
+    "BRAND_260": "#ed1c24",
+    "BRAND_360": "#ed1c24",
+    "BRAND_500": "#5294e2",
+    "BRAND_560": "#3a5c9e",
+    "YELLOW_300": "#ffcc00",
+    "GREEN_600": "#141414",
+    "RED_400": "#ed1c24",
+    "WHITE_500": "#ffffff"
+  },
+  "background": {
+    "blur": 0.5,
+    "alpha": 0.8,
+    "url": "https://raw.githubusercontent.com/AkaneTsukiii/Hoshimi-Miyabi-Theme/refs/heads/main/1015168.jpg"
+  },
+  "color": "#ed1c24"
+}
